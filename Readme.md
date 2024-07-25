@@ -44,7 +44,6 @@ The code generates:
 ## Dependencies
 
 - MATLAB (developed with R2021a, but should work with other recent versions)
-- MATLAB Image Processing Toolbox (for video writing)
 
 ## Result
 
